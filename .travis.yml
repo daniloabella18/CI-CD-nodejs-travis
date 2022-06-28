@@ -1,6 +1,6 @@
 lenguage: node_js
 node_js:
-  - stable
+  - "13"
 deploy:
   provider: heroku
   app: shareyourideas-nodejstwo
