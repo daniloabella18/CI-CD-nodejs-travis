@@ -7,7 +7,7 @@ deploy:
   provider: heroku
   api_key:
     secure: SZHT0OjYK1RXyhNwL25f4/q5uPHtFeElhf+y4x5MB+OmFq+uBkChwssPMzmC/vw7RLEaDNgpRz+2kFMvGJW7AXcrVm5ZdZI6G+W+dEh4NYPfmAHA9XIYKxaJ+6dsyt78OK99ovIXKPQv059qObc1j4520aKtbqeBDE8JSbNLw4UTK06Tl2uAzHL6rJLBlgdxMkprFlIasUt/gbqN593lWF7VbTdq0189Fp+WfG6vQ+r85jKZu5y/1k0lnLxcVqMMLC85nu0WtjdQg6n3O+0cS/QGWZSdo1P3csVPe3DyNIOwpxkF96giYXCwcg1Svln//aHfiD3YjD5kxUNPQkLm9QPq60vcqndHTf+Yf/vLk6gK4MG2x7WUySzBIhoXUIEhCQeMRsl2ndX4nEd1T3Zle23G4cxmF3JO2cQgIIkicwXM/Iv578vkBVUwqj5IVUubCfthHqkH8ySAlC0qvEtNVT4BrlZhbW4Tqd+v/EGFvN09wzoTrPbNKWBiwRbXG9vwyuMOkl0YJvqI1pxanJutrCGXNcAsucvMA2om8ksBP2jHcwF6u6i+XJfz0Jfeh/h0K7vTebK+OvcAP6NLvynwQIWVcQLVtoEfrLTZfS/MP/cvq/showkSyUNb/HdbksJ3wrPIpJtDLT7GBLDI4ilW5FKUMbasIrrLVDQn40cj3u8=
-  app: CI-CD-nodejs-travis
+  app: nodejs-travis-cicd
   on:
     repo: daniloabella18/CI-CD-nodejs-travis
   skip_cleanup: true
